@@ -6,3 +6,6 @@ Hi!
 
 ### Markdown practice
 
+###### Oh look a bee!
+
+![bee](Bee.jpg)
